@@ -155,7 +155,7 @@ function App() {
             </ul>
           ) : (
             <div className="empyt">
-              <img src={ImgAly} alt="jacaré de óculos"/>
+              <img src={ImgAly} alt=""/>
               <p>Não há tarefas ainda</p>
             </div>
             
