@@ -1,23 +1,12 @@
 # ToDo
-Checkpoint de Front-end III
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+## Sobre o projeto
 
-# Sobre o projeto
+https://to-do-arruday.vercel.app/
 
-https://wmazoni-sds1.netlify.app
+ToDo é uma aplicação web construída durante a disciplina de Front-end III do curso **Certified Tech Developer** (#CTD) da [Digital House](https://www.digitalhouse.com/br "Site da Digital House").
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
-
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Interface desktop](https://github.com/arrudaY/ToDo/raw/main/assets/desktopInterface.png)
 
 # Tecnologias utilizadas
 
@@ -33,16 +22,13 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
+git clone https://github.com/arrudaY/ToDo.git
 
 # instalar dependências
-yarn install
+yarn
 
 # executar o projeto
-yarn start
+yarn dev
 ```
 
 # Autor
