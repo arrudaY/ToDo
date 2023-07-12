@@ -10,14 +10,12 @@ ToDo é uma aplicação web construída durante a disciplina de Front-end III do
 
 # Tecnologias utilizadas
 
-## Front end
 - HTML / CSS / JS
 - ReactJS
 - Vite
 
 # Como executar o projeto
 
-## Front end web
 Pré-requisitos: npm / yarn
 
 ```bash
