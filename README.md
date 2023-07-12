@@ -8,13 +8,13 @@ ToDo é uma aplicação web construída durante a disciplina de Front-end III do
 
 ![Interface desktop](https://github.com/arrudaY/ToDo/raw/main/assets/desktopInterface.png)
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML / CSS / JS
 - ReactJS
 - Vite
 
-# Como executar o projeto
+## Como executar o projeto
 
 Pré-requisitos: npm / yarn
 
@@ -29,7 +29,7 @@ yarn
 yarn dev
 ```
 
-# Autor
+## Autor
 
 Felipe Arruda
 
