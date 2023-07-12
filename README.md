@@ -13,7 +13,7 @@ ToDo é uma aplicação web construída durante a disciplina de Front-end III do
 ## Front end
 - HTML / CSS / JS
 - ReactJS
-- React Native
+- Vite
 
 # Como executar o projeto
 
