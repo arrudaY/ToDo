@@ -19,20 +19,12 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
-
 # Tecnologias utilizadas
 
 ## Front end
 - HTML / CSS / JS
 - ReactJS
 - React Native
-  
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
 
 # Como executar o projeto
 
